@@ -29,4 +29,4 @@ Open any web browser and type "localhost:8080/ping" into the search bar.
 ![image](https://user-images.githubusercontent.com/2979485/193377909-9e09fbe1-d2c4-4754-b720-08355fc3de7e.png)
 
 Alternatively, you can type "curl localhost:8080/ping" into command prompt to get the string return back.
-![image](https://user-images.githubusercontent.com/2979485/193377896-40546ecb-f4ac-48c8-8f09-02f4199c78c8.png)
+![image](https://user-images.githubusercontent.com/2979485/193378040-f3e27c5a-72c0-4bf3-b9ce-b88c69b04cbb.png)
